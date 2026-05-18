@@ -6,6 +6,7 @@ Contents:
 - loops and conditionals
 - basic error handling
 - files
+- defining your own functions
 
 
 ## Data files

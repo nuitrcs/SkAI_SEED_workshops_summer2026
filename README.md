@@ -32,6 +32,7 @@ Contents:
 - loops and conditionals
 - basic error handling
 - files
+- defining your own functions
 
 
 ## Day 4 (June 18)
