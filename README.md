@@ -21,7 +21,7 @@ Contents:
 - objects and functions
 - integers, floats, and strings
 - comparison and logical operators
-- lists, tuples, sets, and ranges
+- Python containers (lists, tuples, sets, ranges, dictionaries)
 - mutable vs. immutable objects
 
 ## Day 3 (June 17)
@@ -31,7 +31,6 @@ Instructor : Aaron Geller
 Contents:
 - loops and conditionals
 - basic error handling
-- dictionaries
 - files
 
 
