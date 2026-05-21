@@ -5,5 +5,5 @@ Instructor: RCS staff
 Contents:
 - Command line
 - HPC basics
-- Version control and git+GitHJub
+- Version control and git+GitHub
   
