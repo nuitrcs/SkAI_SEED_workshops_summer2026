@@ -4,7 +4,7 @@ This repo contains materials for the June 2026 SkAI SEED workshops taught by RCD
 
 ## Day 1 (June 15)
 
-Instructor: RCS staff
+Instructors: Andrew Block, Sophie van Genderen, Julia Giannini
 
 Contents:
 - Command line
