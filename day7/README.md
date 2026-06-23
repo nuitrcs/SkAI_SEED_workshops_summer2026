@@ -3,6 +3,6 @@
 Instructor : efrén cruz cortés 
 
 Contents:
-- sci-kit learn
+- Machine Learning with scikit-learn
 
 
